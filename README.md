@@ -14,9 +14,9 @@ tested on termux and linux
 <br>
 <br>
 <br>
-<img src='https://raw.githubusercontent.com/wh1t3-shadow/web-downloder/main/Screenshot_2022-04-16-18-41-54-802_com.termux.jpg' alt='Screenshot-2022-04-16-18-41-54-802-com-termux'/>
+<img src='https://raw.githubusercontent.com/wh1t3-shadow/web-downloder/main/pic1.jpg' alt='Screenshot-2022-04-16-18-41-54-802-com-termux'/>
 <br>
-<img src='https://raw.githubusercontent.com/wh1t3-shadow/web-downloder/main/received_1012335392997301.webp' alt='received-1012335392997301'/>
+<img src='https://raw.githubusercontent.com/wh1t3-shadow/web-downloder/main/pic2.webp' alt='received-1012335392997301'/>
 <p><span style="color: #0000ff;">&nbsp;</span></p>
 <p><span style="color: #00ff00;">&nbsp; &nbsp; For any contact</span></p>
 <p><span style="color: #00ff00;">&nbsp; &nbsp; <a href="https://www.facebook.com/106302651221443" target="_blank">wh1t3 shadow</a></span></p>
