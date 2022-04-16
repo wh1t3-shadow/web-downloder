@@ -6,7 +6,7 @@
 <li><span style="color: #0000ff;">pkg install git</span></li>
 <li><span style="color: #0000ff;">git clone https://github.com/wh1t3-shadow/web-downloder</span></li>
 <li><span style="text-align: center; color: #0000ff;">cd </span><span style="text-align: center; color: #0000ff;">web-downloder</span></li>
-<li><span style="color: #0000ff;">php do.php</span></li>
+<li><span style="color: #0000ff;">php webdo.php</span></li>
 </ul>
 <br>
 <br>
